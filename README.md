@@ -1,2 +1,2 @@
 # BangDice
-BAng dice game 
+Bang dice game 
