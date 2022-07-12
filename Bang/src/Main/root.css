@@ -1,0 +1,57 @@
+.DiceLabel{
+    -fx-background-color: white;
+    -fx-padding: 5;
+    -fx-border-width: 4;
+    -fx-border-color: #000000;
+    -fx-border-radius: 3;
+    
+}
+
+.RollButton{
+    -fx-background-color: brown;
+    -fx-border-width: 5;
+    -fx-border-color: #000000;
+    -fx-border-radius: 5;
+    
+    
+}
+
+.Intro{
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 100%, #2b1d0e, black);;
+    -fx-border-width: 5;
+    -fx-border-color: grey;
+    -fx-border-radius: 5;
+
+}
+
+.npcButton{
+-fx-background-color: linear-gradient(from 0% 0% to 100% 100%, #2b1d0e, black);;
+    -fx-border-width: 5;
+    -fx-border-color: grey;
+    -fx-border-radius: 5;
+
+
+
+}
+
+.playButton{
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 100%, grey, black);
+
+
+}
+
+.PlayerUI{
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 100%, #401420, #696161);
+    -fx-border-color: black;
+    -fx-border-width: 3;
+}
+
+.base{
+    -fx-background-color: #919473;
+}
+
+.rightPanel{
+    -fx-border-color: black;
+    -fx-border-width: 3 3 0 3;
+    -fx-background-color: #827c7c;
+}
